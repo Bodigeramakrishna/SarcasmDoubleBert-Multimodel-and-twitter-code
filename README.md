@@ -52,7 +52,14 @@ Processes contextual embeddings using:
 **Class Distribution**:
 - Sarcastic: 47.2%
 - Non-sarcastic: 52.8%
-
+  **Classification Report**:
+| Class         | Precision | Recall | F1-Score | Support |
+|---------------|-----------|--------|----------|---------|
+| Sarcasm (0)   | 0.89      | 0.90   | 0.90     | 2103    |
+| Non-Sarcasm (1)| 0.92      | 0.91   | 0.92     | 2607    |
+| **Accuracy**  |           |        | **0.91** | 4710    |
+| Macro Avg     | 0.91      | 0.91   | 0.91     | 4710    |
+| Weighted Avg  | 0.91      | 0.91   | 0.91     | 4710    |
 ## 4 Results
 Twitter Dataset Comparison
 | Category                    | Model              | Accuracy | Precision | Recall | F1-Score |
@@ -92,6 +99,15 @@ Twitter Dataset Comparison
 | **Proposed Model**     | **Double BERT**                    | **91.0** | **90.5**  | **90.5**| **91.0** |
 
 ## 5 Conclusion
+**Key Performance Metrics Summary**:
+
+| Metric               | Value  |
+|----------------------|--------|
+| Validation Accuracy  | 91.0%  |
+| Weighted F1-Score    | 0.91   |
+| Training Loss (Final)| 0.0003 |
+| Validation Loss      | 0.2912 |
+| Adversarial Success  | 76.9%  |
 Our Double BERT model demonstrates:
 - 91% accuracy in sarcasm detection
 - Superior handling of contextual nuances
