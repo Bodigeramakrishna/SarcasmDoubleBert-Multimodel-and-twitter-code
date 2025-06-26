@@ -101,5 +101,5 @@ Our Double BERT model demonstrates:
 
  **Journal Submission**:
    
-  [![DOI]([http://dx.doi.org/10.2139/ssrn.5063579])]
+  [![DOI](https://zenodo.org/badge/DOI/10.XXXX/zenodo.XXXXXX.svg)]([http://dx.doi.org/10.2139/ssrn.5063579])]
 
