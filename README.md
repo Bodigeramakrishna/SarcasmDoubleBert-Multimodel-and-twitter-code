@@ -108,7 +108,7 @@ Twitter Dataset Comparison
 | Training Loss (Final)| 0.0003 |
 | Validation Loss      | 0.2912 |
 | Adversarial Success  | 76.9%  |
-Our Double BERT model demonstrates:
+
 - 91% accuracy in sarcasm detection
 - Superior handling of contextual nuances
 - Robustness across demographic/cultural contexts
