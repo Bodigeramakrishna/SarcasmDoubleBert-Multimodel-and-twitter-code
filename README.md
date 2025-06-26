@@ -65,30 +65,30 @@ Twitter Dataset Comparison
 | **Pre-trained Models**      | RoBERT*            | 73.9     | 72.7      | 72.8   | 72.8     |
 |                             | ADGCN-RoBERT*      | 72.2     | 71.3      | 71.9   | 71.4     |
 |                             | DC-Net-RoBERT*     | 70.9     | 69.7      | 68.3   | 68.7     |
-| Eke et al. (2021) [11]      | BERT+LSTM Fusion   | 76.3     | 81.2      | 78.5   | 76.3     |
-| Srivastava et al. (2020)[44]| BERT+BERT+Bi-LSTM  | 74.0†    | -         | -      | -        |
-| Liu et al. (2023)[30]       | SarcPrompt-Clash   | 76.9     | 77.1      | 78.3   | 76.6     |
-| Liu et al. (2022)[29]       | Bi-LSTM            | 73.0     | 71.8      | 71.7   | 71.7     |
-| Lemmens et al. (2020)[27]   | CNN-LSTM Ensemble  | -        | 75.6      | 75.2   | 75.2     |
-| Baruah et al. (2020)[5]     | BERT (5-fold CV)   | -        | 74.4      | 74.8   | 74.3     |
+| Eke et al. (2021)    | BERT+LSTM Fusion   | 76.3     | 81.2      | 78.5   | 76.3     |
+| Srivastava et al. (2020)| BERT+BERT+Bi-LSTM  | 74.0†    | -         | -      | -        |
+| Liu et al. (2023)       | SarcPrompt-Clash   | 76.9     | 77.1      | 78.3   | 76.6     |
+| Liu et al. (2022)      | Bi-LSTM            | 73.0     | 71.8      | 71.7   | 71.7     |
+| Lemmens et al. (2020)   | CNN-LSTM Ensemble  | -        | 75.6      | 75.2   | 75.2     |
+| Baruah et al. (2020)    | BERT (5-fold CV)   | -        | 74.4      | 74.8   | 74.3     |
 | **Proposed Model**          | **Double BERT**    | **83.4** | **83.8**  | **84.1**| **84.1** |
 
 
  Reddit Dataset Comparison
 | System                      | Model                   | Accuracy | Precision | Recall | F1-Score |
 |-----------------------------|-------------------------|----------|-----------|--------|----------|
-| Srivastava et al. (2020)[44]| BERT+BERT-Bi-LSTM       | 63.7†    | -         | -      | -        |
-| Lemmens et al. (2020)[27]   | CNN-LSTM Ensemble       | -        | 63.4      | 64.0   | 63.8     |
-| Potamias et al. (2021)[37]  | Lexical+Deep Learning   | 85.0     | 78.0      | 78.0   | 78.0     |
-| Baruah et al. (2020)[5]     | BERT (5-fold CV)        | -        | 65.8      | 65.8   | 65.8     |
+| Srivastava et al. (2020)| BERT+BERT-Bi-LSTM       | 63.7†    | -         | -      | -        |
+| Lemmens et al. (2020)  | CNN-LSTM Ensemble       | -        | 63.4      | 64.0   | 63.8     |
+| Potamias et al. (2021) | Lexical+Deep Learning   | 85.0     | 78.0      | 78.0   | 78.0     |
+| Baruah et al. (2020)     | BERT (5-fold CV)        | -        | 65.8      | 65.8   | 65.8     |
 | **Proposed Model**          | **Double BERT**         | **83.6** | **80.8**  | **88.1**| **84.4** |
 
 
  Mixed Dataset Comparison
 | System                 | Model                              | Accuracy | Precision | Recall | F1-Score |
 |------------------------|------------------------------------|----------|-----------|--------|----------|
-| Li et al. (2021)[28]   | Attention Mechanism with Bi-LSTM   | 88.0     | 86.5      | 87.0   | 86.7     |
-| Tomás et al. (2023)[47]| GANs + BERT                        | 90.5     | 89.8      | 90.0   | 89.9     |
+| Li et al. (2021)  | Attention Mechanism with Bi-LSTM   | 88.0     | 86.5      | 87.0   | 86.7     |
+| Tomás et al. (2023)| GANs + BERT                        | 90.5     | 89.8      | 90.0   | 89.9     |
 | **Proposed Model**     | **Double BERT**                    | **91.0** | **90.5**  | **90.5**| **91.0** |
 
 ## 5 Conclusion
