@@ -52,7 +52,7 @@ Processes contextual embeddings using:
 **Class Distribution**:
 - Sarcastic: 47.2%
 - Non-sarcastic: 52.8%
-  **Classification Report**:
+-**Classification Report**:
 | Class         | Precision | Recall | F1-Score | Support |
 |---------------|-----------|--------|----------|---------|
 | Sarcasm (0)   | 0.89      | 0.90   | 0.90     | 2103    |
