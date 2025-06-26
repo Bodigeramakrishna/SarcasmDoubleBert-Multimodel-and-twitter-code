@@ -77,8 +77,8 @@ Chauhan et al. (2020), Babanejad et al. (2020), Liu et al. (2022), ... Helal et 
 
 
  **Journal Submission**:
-   ```markdown
-   [![DOI](https://zenodo.org/badge/DOI/10.XXXX/zenodo.XXXXXX.svg)](https://doi.org/10.XXXX/zenodo.XXXXXX)
+   
+   [![DOI](https://zenodo.org/badge/DOI/10.XXXX/zenodo.XXXXXX.svg)](https://[doi.org/10.XXXX/zenodo.XXXXXX](http://dx.doi.org/10.2139/ssrn.5063579))
    ```
  
 
