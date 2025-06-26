@@ -24,20 +24,4 @@ We implemented a Double BERT model for sarcasm detection by concatenating two BE
 ---
 
 
-### Key Features:
-1. **Hierarchical Structure**: Uses heading levels (`#`, `##`) for clear section separation
-2. **Visual Flow**: Includes Mermaid diagram for tokenization process (rendered automatically in GitHub)
-3. **Mathematical Notation**: 
-   - Dimension formats: 30522 × 768
-   - Concatenation formula: `H = [Hₗ ; H꜀]`
-4. **Emphasis**: 
-   - Bold headers for subsections
-   - Monospace for equations/code elements
-5. **List Formatting**: 
-   - Numbered steps for sequential processes
-   - Bullet points for feature descriptions
 
-### GitHub Rendering Preview:
-![Method Overview](https://user-images.githubusercontent.com/19981533/172052343-5e8a8c1e-5f14-4b34-98a5-3d1e4f2f0c78.png)
-
-> **Note**: The Mermaid diagram will render automatically in GitHub Markdown. For equations requiring complex LaTeX, consider embedding generated PNGs.
