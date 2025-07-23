@@ -82,8 +82,14 @@ Processes contextual embeddings using:
 
 <img width="895" height="597" alt="image" src="https://github.com/user-attachments/assets/e744f5f1-4855-43a0-984f-bd159cddf54d" />
 
+Figure 1 Number of samples (class wise distribution) used for validation
+
 <img width="975" height="589" alt="image" src="https://github.com/user-attachments/assets/52b4d5d0-42d1-4d76-a719-f15a1ae0de48" />
+
+Figure 2 D-BERT model performance on 2 classes.
 <img width="802" height="519" alt="image" src="https://github.com/user-attachments/assets/e92f6f52-857e-4b5b-9a63-bd001e70a6d6" />
+
+Figure 3 Calibration curve of D-BERT model on multi domain dataset
 
 <img width="706" height="621" alt="image" src="https://github.com/user-attachments/assets/3ffff28a-589d-492c-9429-95b244c1d400" />
 
