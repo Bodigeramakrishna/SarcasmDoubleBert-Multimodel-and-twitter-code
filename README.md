@@ -106,6 +106,7 @@ Processes contextual embeddings using:
 | Tomás et al. (2023)| GANs + BERT                        | 90.5     | 89.8      | 90.0   | 89.9     |
 | **D-BERT Model**     | **D-BERT Model**                    | **91.0** | **90.5**  | **90.5**| **91.0** |
 <img width="975" height="321" alt="image" src="https://github.com/user-attachments/assets/19521539-4ec2-46f8-ac1d-0af44fda16ab" />
+Feature importance of D-BERT model for true negative and false values on multi domain dataset
 
 
 ## 5 Conclusion
