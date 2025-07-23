@@ -50,8 +50,8 @@ Processes contextual embeddings using:
 - Twitter (emotional/spontaneous sarcasm)
 
 **Class Distribution**:
-- Sarcastic: 47.2%
-- Non-sarcastic: 52.8%
+- Sarcastic: 49.5%
+- Non-sarcastic: 55.5%
 - <img width="779" height="668" alt="image" src="https://github.com/user-attachments/assets/d57c956c-10e3-4e4e-a9eb-0e63faec1a1b" />
 
 Figure 1 Data set used to train D-BERT model
