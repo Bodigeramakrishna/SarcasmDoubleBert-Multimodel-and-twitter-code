@@ -78,7 +78,7 @@ Twitter Dataset Comparison
 | Liu et al. (2022)      | Bi-LSTM            | 73.0     | 71.8      | 71.7   | 71.7     |
 | Lemmens et al. (2020)   | CNN-LSTM Ensemble  | -        | 75.6      | 75.2   | 75.2     |
 | Baruah et al. (2020)    | BERT (5-fold CV)   | -        | 74.4      | 74.8   | 74.3     |
-| **Proposed Model**          | **Double BERT**    | **83.4** | **83.8**  | **84.1**| **84.1** |
+| **D-BERT Model**          | **Double BERT**    | **83.4** | **83.8**  | **84.1**| **84.1** |
 
 
  Reddit Dataset Comparison
@@ -88,7 +88,7 @@ Twitter Dataset Comparison
 | Lemmens et al. (2020)  | CNN-LSTM Ensemble       | -        | 63.4      | 64.0   | 63.8     |
 | Potamias et al. (2021) | Lexical+Deep Learning   | 85.0     | 78.0      | 78.0   | 78.0     |
 | Baruah et al. (2020)     | BERT (5-fold CV)        | -        | 65.8      | 65.8   | 65.8     |
-| **Proposed Model**          | **Double BERT**         | **83.6** | **80.8**  | **88.1**| **84.4** |
+| **D-BERT Model**          | **D-BERT**         | **83.6** | **80.8**  | **88.1**| **84.4** |
 
 
  Mixed Dataset Comparison
@@ -96,7 +96,7 @@ Twitter Dataset Comparison
 |------------------------|------------------------------------|----------|-----------|--------|----------|
 | Li et al. (2021)  | Attention Mechanism with Bi-LSTM   | 88.0     | 86.5      | 87.0   | 86.7     |
 | Tomás et al. (2023)| GANs + BERT                        | 90.5     | 89.8      | 90.0   | 89.9     |
-| **Proposed Model**     | **Double BERT**                    | **91.0** | **90.5**  | **90.5**| **91.0** |
+| **D-BERT Model**     | **D-BERT Model**                    | **91.0** | **90.5**  | **90.5**| **91.0** |
 
 ## 5 Conclusion
 **Key Performance Metrics Summary**:
