@@ -82,6 +82,12 @@ Twitter Dataset Comparison
 
 <img width="895" height="597" alt="image" src="https://github.com/user-attachments/assets/e744f5f1-4855-43a0-984f-bd159cddf54d" />
 
+<img width="975" height="589" alt="image" src="https://github.com/user-attachments/assets/52b4d5d0-42d1-4d76-a719-f15a1ae0de48" />
+<img width="802" height="519" alt="image" src="https://github.com/user-attachments/assets/e92f6f52-857e-4b5b-9a63-bd001e70a6d6" />
+<img width="975" height="321" alt="image" src="https://github.com/user-attachments/assets/19521539-4ec2-46f8-ac1d-0af44fda16ab" />
+
+
+
  Reddit Dataset Comparison
 | System                      | Model                   | Accuracy | Precision | Recall | F1-Score |
 |-----------------------------|-------------------------|----------|-----------|--------|----------|
