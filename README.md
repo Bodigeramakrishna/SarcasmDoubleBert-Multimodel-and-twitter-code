@@ -6,7 +6,7 @@
 **Institution**: Department of Computer Science, SR University, Warangal, Telangana, India
 # 1 Project Statement
 Sarcasm detection is a critical challenge in natural language processing (NLP) due to its dependence on contextual, emotional, and cultural nuances. Detecting sarcasm accurately is essential for improving the understanding of human communication, especially in online interactions. This paper aims to propose an effective model for sarcasm detection with the Double BERT approach, addressing the challenges of capturing contextual, demographic diversity, cultural variance and emotional patterns from text. Existing sarcasm detection models often struggle with handling diverse linguistic features and contextual variations, leading to suboptimal performance across different datasets and domains.We developed a robust sarcasm detection model using Double BERT, trained on a mixed dataset consisting of 149,480 samples.
-### Keywords: Sarcasm detection, contextual understanding, NLP, BERT, adversarial study
+### Keywords: Sarcasm detection, contextual understanding, NLP, BERT, Adversarial study
 ### Contributions:
 1. Implemented D-BERT combining contextual embedding and classification
 2. Trained/tested on mixed datasets across demographic/cultural contexts
