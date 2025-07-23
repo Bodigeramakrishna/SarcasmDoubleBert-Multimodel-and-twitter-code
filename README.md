@@ -86,6 +86,8 @@ Processes contextual embeddings using:
 <img width="802" height="519" alt="image" src="https://github.com/user-attachments/assets/e92f6f52-857e-4b5b-9a63-bd001e70a6d6" />
 
 <img width="706" height="621" alt="image" src="https://github.com/user-attachments/assets/3ffff28a-589d-492c-9429-95b244c1d400" />
+
+
 Figure4 confusion matrix of proposed model on mulit domin data
 
 
