@@ -52,6 +52,9 @@ Processes contextual embeddings using:
 **Class Distribution**:
 - Sarcastic: 47.2%
 - Non-sarcastic: 52.8%
+- <img width="779" height="668" alt="image" src="https://github.com/user-attachments/assets/d57c956c-10e3-4e4e-a9eb-0e63faec1a1b" />
+
+Figure 1 Data set used to train D-BERT model
 ## Classification Report:
 | Class         | Precision | Recall | F1-Score | Support |
 |---------------|-----------|--------|----------|---------|
@@ -82,19 +85,19 @@ Processes contextual embeddings using:
 
 <img width="895" height="597" alt="image" src="https://github.com/user-attachments/assets/e744f5f1-4855-43a0-984f-bd159cddf54d" />
 
-Figure 1 Number of samples (class wise distribution) used for validation
+Figure 2 Number of samples (class wise distribution) used for validation
 
 <img width="975" height="589" alt="image" src="https://github.com/user-attachments/assets/52b4d5d0-42d1-4d76-a719-f15a1ae0de48" />
 
-Figure 2 D-BERT model performance on 2 classes.
+Figure 3 D-BERT model performance on 2 classes.
 <img width="802" height="519" alt="image" src="https://github.com/user-attachments/assets/e92f6f52-857e-4b5b-9a63-bd001e70a6d6" />
 
-Figure 3 Calibration curve of D-BERT model on multi domain dataset
+Figure 4 Calibration curve of D-BERT model on multi domain dataset
 
 <img width="706" height="621" alt="image" src="https://github.com/user-attachments/assets/3ffff28a-589d-492c-9429-95b244c1d400" />
 
 
-Figure4 confusion matrix of  D-BERT model on mulit domin data
+Figure5 confusion matrix of  D-BERT model on mulit domin data
 
 
 
@@ -117,7 +120,7 @@ Figure4 confusion matrix of  D-BERT model on mulit domin data
 | Tomás et al. (2023)| GANs + BERT                        | 90.5     | 89.8      | 90.0   | 89.9     |
 | **D-BERT Model**     | **D-BERT Model**                    | **91.0** | **90.5**  | **90.5**| **91.0** |
 <img width="975" height="321" alt="image" src="https://github.com/user-attachments/assets/19521539-4ec2-46f8-ac1d-0af44fda16ab" />
-Figure5 Feature importance of D-BERT model for true negative and false values on multi domain dataset
+Figure6 Feature importance of D-BERT model for true negative and false values on multi domain dataset
 
 
 ## 5 Conclusion
