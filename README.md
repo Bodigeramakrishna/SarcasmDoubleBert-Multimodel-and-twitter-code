@@ -80,6 +80,7 @@ Twitter Dataset Comparison
 | Baruah et al. (2020)    | BERT (5-fold CV)   | -        | 74.4      | 74.8   | 74.3     |
 | **D-BERT Model**          | **Double BERT**    | **83.4** | **83.8**  | **84.1**| **84.1** |
 
+<img width="895" height="597" alt="image" src="https://github.com/user-attachments/assets/e744f5f1-4855-43a0-984f-bd159cddf54d" />
 
  Reddit Dataset Comparison
 | System                      | Model                   | Accuracy | Precision | Recall | F1-Score |
