@@ -61,7 +61,7 @@ Processes contextual embeddings using:
 | Macro Avg     | 0.91      | 0.91   | 0.91     | 4710    |
 | Weighted Avg  | 0.91      | 0.91   | 0.91     | 4710    |
 ## 4 Results
-Twitter Dataset Comparison
+**Twitter Dataset Comparison**
 | Category                    | Model              | Accuracy | Precision | Recall | F1-Score |
 |-----------------------------|--------------------|----------|-----------|--------|----------|
 | **Deep Learning Models**    | Bi-LSTM*           | 73.0     | 71.8      | 71.7   | 71.7     |
@@ -78,17 +78,18 @@ Twitter Dataset Comparison
 | Liu et al. (2022)      | Bi-LSTM            | 73.0     | 71.8      | 71.7   | 71.7     |
 | Lemmens et al. (2020)   | CNN-LSTM Ensemble  | -        | 75.6      | 75.2   | 75.2     |
 | Baruah et al. (2020)    | BERT (5-fold CV)   | -        | 74.4      | 74.8   | 74.3     |
-| **D-BERT Model**          | **Double BERT**    | **83.4** | **83.8**  | **84.1**| **84.1** |
+| **D-BERT Model**          | **D-BERT**    | **83.4** | **83.8**  | **84.1**| **84.1** |
 
 <img width="895" height="597" alt="image" src="https://github.com/user-attachments/assets/e744f5f1-4855-43a0-984f-bd159cddf54d" />
 
 <img width="975" height="589" alt="image" src="https://github.com/user-attachments/assets/52b4d5d0-42d1-4d76-a719-f15a1ae0de48" />
 <img width="802" height="519" alt="image" src="https://github.com/user-attachments/assets/e92f6f52-857e-4b5b-9a63-bd001e70a6d6" />
-<img width="975" height="321" alt="image" src="https://github.com/user-attachments/assets/19521539-4ec2-46f8-ac1d-0af44fda16ab" />
 
 
 
- Reddit Dataset Comparison
+
+
+ **Reddit Dataset Comparison**
 | System                      | Model                   | Accuracy | Precision | Recall | F1-Score |
 |-----------------------------|-------------------------|----------|-----------|--------|----------|
 | Srivastava et al. (2020)| BERT+BERT-Bi-LSTM       | 63.7†    | -         | -      | -        |
@@ -98,12 +99,14 @@ Twitter Dataset Comparison
 | **D-BERT Model**          | **D-BERT**         | **83.6** | **80.8**  | **88.1**| **84.4** |
 
 
- Mixed Dataset Comparison
+ **Mixed Dataset Comparison**
 | System                 | Model                              | Accuracy | Precision | Recall | F1-Score |
 |------------------------|------------------------------------|----------|-----------|--------|----------|
 | Li et al. (2021)  | Attention Mechanism with Bi-LSTM   | 88.0     | 86.5      | 87.0   | 86.7     |
 | Tomás et al. (2023)| GANs + BERT                        | 90.5     | 89.8      | 90.0   | 89.9     |
 | **D-BERT Model**     | **D-BERT Model**                    | **91.0** | **90.5**  | **90.5**| **91.0** |
+<img width="975" height="321" alt="image" src="https://github.com/user-attachments/assets/19521539-4ec2-46f8-ac1d-0af44fda16ab" />
+
 
 ## 5 Conclusion
 **Key Performance Metrics Summary**:
