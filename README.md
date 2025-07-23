@@ -85,6 +85,9 @@ Processes contextual embeddings using:
 <img width="975" height="589" alt="image" src="https://github.com/user-attachments/assets/52b4d5d0-42d1-4d76-a719-f15a1ae0de48" />
 <img width="802" height="519" alt="image" src="https://github.com/user-attachments/assets/e92f6f52-857e-4b5b-9a63-bd001e70a6d6" />
 
+<img width="706" height="621" alt="image" src="https://github.com/user-attachments/assets/3ffff28a-589d-492c-9429-95b244c1d400" />
+Figure4 confusion matrix of proposed model on mulit domin data
+
 
 
 
@@ -106,7 +109,7 @@ Processes contextual embeddings using:
 | Tomás et al. (2023)| GANs + BERT                        | 90.5     | 89.8      | 90.0   | 89.9     |
 | **D-BERT Model**     | **D-BERT Model**                    | **91.0** | **90.5**  | **90.5**| **91.0** |
 <img width="975" height="321" alt="image" src="https://github.com/user-attachments/assets/19521539-4ec2-46f8-ac1d-0af44fda16ab" />
-Feature importance of D-BERT model for true negative and false values on multi domain dataset
+Figure5 Feature importance of D-BERT model for true negative and false values on multi domain dataset
 
 
 ## 5 Conclusion
