@@ -94,7 +94,7 @@ Figure 3 Calibration curve of D-BERT model on multi domain dataset
 <img width="706" height="621" alt="image" src="https://github.com/user-attachments/assets/3ffff28a-589d-492c-9429-95b244c1d400" />
 
 
-Figure4 confusion matrix of proposed model on mulit domin data
+Figure4 confusion matrix of  D-BERT model on mulit domin data
 
 
 
