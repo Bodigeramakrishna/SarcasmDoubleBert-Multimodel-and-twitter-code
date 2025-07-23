@@ -1,5 +1,5 @@
 
-# Advancing Sarcasm Detection with a Double BERT Architecture: Insights and Performance Analysis
+# A Dual Encoder Architecture for Robust,Adversarial Aware Sarcasm Detection across Heterogeneous Text Corpora.
 
 **Author**: Ramakrishna Bodige  
 **Email**: ramakrishnamail4u@gmail.com  
